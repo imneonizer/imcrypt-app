@@ -23,7 +23,7 @@ And go to this address  [http://localhost:8501](http://localhost:8501) in your b
 
 ## Screenshots
 ![](2.png)
-
+****
 ![](3.png)
 
 The code is itself very short, you can see yourself.
