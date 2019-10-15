@@ -17,15 +17,15 @@ just clone this repository, cd into ``imcrypt-app`` and run the below command:
 streamlit run app.py
 ````
 
-![](docs/1.png)
+![](1.png)
 
 After it go to this address  ``http://localhost:8501`` in your browser.
 
 ### Screenshots
 
-![](docs/2.png)
+![](2.png)
 
-![](docs/3.png)
+![](3.png)
 
 The code is itself very short, you can see yourself.
 
