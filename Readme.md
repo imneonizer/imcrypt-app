@@ -21,7 +21,8 @@ streamlit run app.py
 
 And go to this address  [http://localhost:8501](http://localhost:8501) in your browser.
 
-### Screenshots
+## Screenshots
+****
 
 ![](2.png)
 
