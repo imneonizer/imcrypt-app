@@ -19,7 +19,7 @@ streamlit run app.py
 
 ![](1.png)
 
-And go to this address  ``http://localhost:8501`` in your browser.
+And go to this address  [http://localhost:8501](http://localhost:8501) in your browser.
 
 ### Screenshots
 
