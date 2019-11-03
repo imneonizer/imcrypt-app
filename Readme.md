@@ -11,7 +11,7 @@ pip install imcrypt
 
 #### How to run
 
-just clone this repository, cd into ``imcrypt-app`` and run the below command:
+just clone this repository, and cd into ``imcrypt-app`` and run the below command:
 
 ````python
 streamlit run app.py
